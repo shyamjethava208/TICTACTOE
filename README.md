@@ -1,3 +1,3 @@
 # TICTACTOE
 <br>
-tried to create game with c lang 
+tried to create a fun game with c language
